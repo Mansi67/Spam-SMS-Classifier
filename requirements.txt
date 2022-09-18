@@ -4,4 +4,4 @@ streamlit
 plotly
 sklearn
 nltk
-
+contractions
